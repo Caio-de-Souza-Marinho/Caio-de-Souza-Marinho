@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Caio!
+### Olá 👋 eu sou o Caio!
 
 
 
-- 👨‍💻 I’m currently learning .NET, Angular, Kotlin and SQL
+- 💻 Atualmente estudo .NET, Angular, Kotlin and SQL
 
 <div align="center">
   <a href="https://github.com/caio-de-souza-marinho">

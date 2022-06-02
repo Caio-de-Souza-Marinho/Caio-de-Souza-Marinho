@@ -30,5 +30,3 @@
    
   ![Snake animation](https://github.com/caio-de-souza-marinho/caio-de-souza-marinho/blob/output/github-contribution-grid-snake.svg) 
 </div>
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=caio-de-souza-marinho)

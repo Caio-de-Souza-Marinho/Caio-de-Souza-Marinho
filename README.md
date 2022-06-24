@@ -5,13 +5,13 @@
 ##
 
 <div align="center">
- <img height="215em" src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=false&show_icons=true&count_private=true&bg_color=360,240000,790909,ff0000&title_color=ffffff&text_color=ffffff&icon_color=ff0000"/>
+ <img height="215em" src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=false&show_icons=true&count_private=true&bg_color=d00000&title_color=ffffff&text_color=ffffff&icon_color=000000"/>
  
  </div>
  
  <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=default&langs_count=10&bg_color=360,240000,790909,ff0000&title_color=ffffff&text_color=ffffff&icon_color=ff0000"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&custom_title=Coding time by Language&layout=default&langs_count=10&bg_color=360,240000,790909,ff0000&title_color=ffffff&text_color=ffffff&icon_color=ff0000"/>
+ <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=default&langs_count=10&bg_color=d00000&title_color=ffffff&text_color=ffffff&icon_color=ff0000"/>
+  <img height="350em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&custom_title=Coding time by Language&layout=default&langs_count=10&bg_color=d00000&title_color=ffffff&text_color=000000&icon_color=000000"/>
  </div>
   
 <div align="center" style="display: inline_block"><br>

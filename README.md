@@ -10,7 +10,7 @@
  
  
  
-<div align="center">
+<div>
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&custom_title=Coding time by Language&layout=compact&langs_count=10&bg_color=FEFAE0&title_color=283618&text_color=BC6C25&icon_color=606C38"/> 
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&bg_color=FEFAE0&title_color=283618&text_color=BC6C25&icon_color=606C38"/> 

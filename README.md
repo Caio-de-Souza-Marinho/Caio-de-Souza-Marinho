@@ -1,6 +1,6 @@
 ### Olá 👋 eu sou o Caio!
 
-- 💻 Estudando Java .NET core, HTML/CSS, Javascript, Typescript, Angular, Kotlin e SQL
+- 💻 Estudando Java, .NET core, HTML/CSS, Javascript, Typescript, Angular e SQL
 
 ##
 

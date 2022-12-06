@@ -10,7 +10,7 @@
  
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&bg_color=FEFAE0&title_color=283618&text_color=BC6C25&icon_color=606C38"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&exclude_repo=OmniApp&bg_color=FEFAE0&title_color=283618&text_color=BC6C25&icon_color=606C38"/> 
 
  <img width="400em" height="255em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&bg_color=FEFAE0&title_color=283618&text_color=BC6C25"/>
  

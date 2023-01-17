@@ -1,18 +1,20 @@
 ### Olá 👋 eu sou o Caio!
 
-- 💻 Estudando Java, .NET core, HTML/CSS, Javascript, Typescript, Angular e SQL
+- 💻 Técnico em Desenvolvimento de Sistemas pela ETEC HAS
+- 💻 Estudando HTML/CSS e Javascript
 
 ##
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=true&show_icons=true&count_private=true&bg_color=FEFAE0&title_color=283618&text_color=BC6C25&icon_color=606C38"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=true&show_icons=true&count_private=true&title_color=000000&icon_color=000000"/>
 </div>
  
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&bg_color=FEFAE0&title_color=283618&text_color=BC6C25&icon_color=606C38"/> 
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000"/> -->
+ 
 
- <img width="400em" height="255em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&bg_color=FEFAE0&title_color=283618&text_color=BC6C25"/>
+ <img width="400em" height="255em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&&title_color=000000"/>
  
 </div>
   

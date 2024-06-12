@@ -1,7 +1,7 @@
 ### Olá 👋 eu sou o Caio!
 
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas pela ETEC HAS
-- 💻 Estudando HTML/CSS, Javascript e Java
+- 💻 Estudando Java
 - 👨‍💻 Trabalhando na KB Soluções e desenvolvendo um ERP
 
 ##

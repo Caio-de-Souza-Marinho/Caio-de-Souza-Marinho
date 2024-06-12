@@ -7,14 +7,14 @@
 ##
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=true&show_icons=true&count_private=true&title_color=000000&icon_color=000000"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=true&show_icons=true&count_private=true&title_color=000000&icon_color=000000&include_all_commits=true&card_width=200"/>
 </div>
  
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000&hide=tsql"/> 
 
- <img width="400em" height="205em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&&title_color=000000"/>
+ <img width="400em" height="205em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&title_color=000000"/>
  
 </div>
   

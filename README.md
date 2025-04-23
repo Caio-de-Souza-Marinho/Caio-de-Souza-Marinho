@@ -1,37 +1,49 @@
-### Olá 👋 eu sou o Caio!
+### Hello, I’m Caio! 🐱‍👤👍
 
-- 👨‍🎓 Técnico em Desenvolvimento de Sistemas pela ETEC HAS
-- 💻 Estudando C
-- 👨‍💻 Trabalhando na KB Soluções e desenvolvendo um ERP
+- 🎓 Systems Development Technician at [ETEC Horácio](https://etechoracio.com.br/has/)  
+- 💻 Studying C at [42 São Paulo](https://www.42sp.org.br/)  
+- 👨‍💻 Working at [KB Soluções](http://kbsolucoes.com.br/) and developing an ERP  
 
-##
+---
 
+#### 📊 GitHub Stats
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=true&show_icons=true&count_private=true&title_color=000000&icon_color=000000&include_all_commits=true&card_width=200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=true&show_icons=true&count_private=true&title_color=000000&icon_color=000000&include_all_commits=true&card_width=200" alt="GitHub Stats">
 </div>
- 
+
+---
+
+#### 📈 Languages & WakaTime
+<div align="center" style="display: flex; justify-content: center; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000&hide=tsql" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&title_color=000000" alt="WakaTime Stats">
+</div>
+
+---
+
+#### 🛠️ Skills
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+  <img alt="C"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img alt="C++"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img alt="Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="C#"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="HTML5"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Angular"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+</div>
+
+---
+
+#### 📫 Contact Me
 <div align="center">
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000&hide=tsql"/> 
-
- <img width="400em" height="205em" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&title_color=000000"/>
- 
+  <a href="mailto:caiosouzamarinho@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/caio-de-souza-marinho-9b3b8a233" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
-  
-<div align="center" style="display: inline_block"><br>
- <img align="center" alt="Caio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Caio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
- <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Caio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
- <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Caio-Postgre SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
- <img align="center" alt="Caio-Postgre SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-</div>
-
-##
-    
-<div align="center"> 
- <a href = "mailto:caiosouzamarinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/caio-de-souza-marinho-9b3b8a233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

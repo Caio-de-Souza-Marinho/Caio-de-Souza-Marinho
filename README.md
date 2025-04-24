@@ -1,4 +1,4 @@
-### Hello, I’m Caio! 🐱‍👤👍
+### Hello, I’m Caio! 👍
 
 - 🎓 Systems Development Technician at [ETEC Horácio](https://etechoracio.com.br/has/)  
 - 💻 Studying C at [42 São Paulo](https://www.42sp.org.br/)  
@@ -6,14 +6,14 @@
 
 ---
 
-#### 📊 GitHub Stats
+**📊 GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caio-de-souza-marinho&hide_rank=true&show_icons=true&count_private=true&title_color=000000&icon_color=000000&include_all_commits=true&card_width=200" alt="GitHub Stats">
 </div>
 
 ---
 
-#### 📈 Languages & WakaTime
+**📈 Languages & WakaTime**
 <div align="center" style="display: flex; justify-content: center; gap: 1rem;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000&hide=tsql" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&title_color=000000" alt="WakaTime Stats">
@@ -21,7 +21,7 @@
 
 ---
 
-#### 🛠️ Skills
+**🛠️ Skills**
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
   <img alt="C"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img alt="C++"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
@@ -38,12 +38,8 @@
 
 ---
 
-#### 📫 Contact Me
+**📫 Contact Me**
 <div align="center">
-  <a href="mailto:caiosouzamarinho@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/caio-de-souza-marinho-9b3b8a233" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="mailto:caiosouzamarinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/caio-de-souza-marinho-9b3b8a233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>

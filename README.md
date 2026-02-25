@@ -15,8 +15,8 @@
 
 **📈 Languages & WakaTime**
 <div align="center" style="display: flex; justify-content: center; gap: 1rem;">
-  <img src="https://github-readme-stats-mu-seven-94.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000&hide=tsql" alt="Top Languages">
-  <img src="https://github-readme-stats-mu-seven-94.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&title_color=000000" alt="WakaTime Stats">
+  <img src="https://github-readme-stats-mu-seven-94.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000&hide=tsql,roff,makefile" alt="Top Languages">
+  <img src="https://github-readme-stats-mu-seven-94.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&title_color=000000&hide=makefile,other" alt="WakaTime Stats">
 </div>
 
 ---

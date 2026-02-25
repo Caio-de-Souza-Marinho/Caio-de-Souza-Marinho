@@ -1,8 +1,8 @@
 ### Hello, I’m Caio! 👍
 
-- 🎓 Systems Development Technician at [ETEC Horácio](https://etechoracio.com.br/has/)  
-- 💻 Studying C at [42 São Paulo](https://www.42sp.org.br/)  
-- 👨‍💻 Working at [KB Soluções](http://kbsolucoes.com.br/) and developing an ERP  
+- 🎓 Technical Program in Systems Development at [ETEC Horácio](https://etechoracio.com.br/has/)  
+- 💻 Software Engineering Student at [42 São Paulo](https://www.42sp.org.br/)  
+- 👨‍💻 Working at [KB Soluções](http://kbsolucoes.com.br/), contributing to ERP development
 
 ---
 

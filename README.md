@@ -13,7 +13,7 @@
 
 ---
 
-**📈 Languages & WakaTime**
+**📊 Coding Activity**
 <div align="center" style="display: flex; justify-content: center; gap: 1rem;">
   <img src="https://github-readme-stats-mu-seven-94.vercel.app/api/top-langs/?username=caio-de-souza-marinho&layout=compact&langs_count=10&title_color=000000&icon_color=000000&hide=tsql,roff,makefile" alt="Top Languages">
   <img src="https://github-readme-stats-mu-seven-94.vercel.app/api/wakatime?username=caiodesouzamarinho&layout=compact&langs_count=10&title_color=000000&hide=makefile,other" alt="WakaTime Stats">
@@ -22,17 +22,25 @@
 ---
 
 **🛠️ Skills**
+
+**Languages**
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-  <img alt="C"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img alt="C++"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="C#"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Lua"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
+  <img alt="C"          height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img alt="C++"        height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img alt="Java"       height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="C#"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Lua"        height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
   <img alt="HTML5"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img alt="CSS3"       height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
+
+**Frameworks & Tools**
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
   <img alt="Angular"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img alt="Spring"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img alt="Docker"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 </div>
